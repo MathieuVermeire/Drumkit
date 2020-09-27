@@ -1,0 +1,10 @@
+{
+  "name": "DrumKIT",
+  "version": "1.0.0",
+  "description": "Drumkit",
+  "main": "index.js",
+  "repository": "https://github.com/MathieuVermeire/Drumkit.git",
+  "author": "Mathieu Vermeire",
+  "license": "MIT",
+  "private": null
+}
